@@ -63,7 +63,7 @@
 
   <div style="margin:4px 0;">
     <a href="https://calendular.straw.page/">MAIN STRAWPAGE</a> ⟢
-    <a href="https://calindean.atabook.org/">ATABOOK</a> ⟢
+    <a href="https://calindean.atabook.org/">SIGN ATABOOK!</a> ⟢
 
   </div>
 
