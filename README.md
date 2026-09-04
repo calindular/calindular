@@ -76,7 +76,7 @@
 
   <br>
   
-  $\color{#ab825e}\textsf{I will disconnect due to inactivity because I used scripts/macros/alts a few years back and my account is flagged so I will have to keep rejoining}$
+  $\color{#ab825e}\textsf{I will disconnect due to inactivity because I used scripts/macros/alts a few years back and my accounts were flagged so I will have to keep rejoining}$
   
    </p>
 
