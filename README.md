@@ -17,7 +17,6 @@
    <img src="https://64.media.tumblr.com/5721942a12ddb0cf46f92b8a8d63650b/135d6e6937ffbdd1-ed/s75x75_c1/621b166437321f835c0c95acfcad8c5445ebb3fa.gifv" width="30"/>![](https://komarev.com/ghpvc/?username=pllayer-132&color=eb9234&style=flat-square&label=PAGE-VIEWS!&base=50)   
   </p>
 
-<table>
   <tr>
     <!-- LEFT: blinkies -->
   
