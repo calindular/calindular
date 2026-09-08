@@ -13,14 +13,12 @@
   <div>
 
   </p>
+ 
 
-   <img src="https://64.media.tumblr.com/5721942a12ddb0cf46f92b8a8d63650b/135d6e6937ffbdd1-ed/s75x75_c1/621b166437321f835c0c95acfcad8c5445ebb3fa.gifv" width="30"/>![](https://komarev.com/ghpvc/?username=pllayer-132&color=eb9234&style=flat-square&label=PAGE-VIEWS!&base=50)   
   </p>
 
   <tr>
-    <!-- LEFT: blinkies -->
   
-
 
 
 
@@ -30,22 +28,22 @@
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src="https://i.imgur.com/Mzxg1l2.jpeg"
+        src="https://i.imgur.com/yHTo78e.png"
         width="400"
       /><br>
     </td>
   </tr>
 </table>
 
-
-  </p>
-  <img 
+<img 
     src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=20&duration=2000&pause=800&color=eb9234&center=true&vCenter=true&width=700&lines=Usually%20in%20class%20so%20w2i...;c*h%20always%20encouraged!;int%20anytime...%20ok...?;check%20my%20strawpage%20too!" 
     alt="typing"
     style="margin:4px 0;"
   />
   </p>
-  
+
+  </p>
+ 
 
 
   </div>
@@ -69,13 +67,12 @@
 
   <br>
   
-  $\color{#ab825e}\textsf{I will disconnect due to inactivity because I used scripts/macros/alts a few years back}$
-    $\color{#ab825e}\textsf{so I'll have to keep rejoining}$
+  $\color{#ab825e}\textsf{I will have to keep rejoining as I used macros a few years back and can't reset my afk timer}$
+    $\color{#ab825e}\textsf{ }$
 
    </p>
 
    </p></p>
-  <img src="https://i.imgur.com/zViwpuX.png" width="320"/>
 
  
 
