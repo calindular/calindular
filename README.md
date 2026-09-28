@@ -77,7 +77,7 @@
 
    </p>
    
-  $\color{#ab825e}\textsf{ac: birdssong}$
+  $\color{#ab825e}\textsf{ac: birdssong, pfp by altades_art}$
     $\color{#ab825e}\textsf{ }$
 
   </p>
