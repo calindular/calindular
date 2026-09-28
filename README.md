@@ -72,13 +72,9 @@
 <br>
    </p></p>
     <img 
-        src="https://64.media.tumblr.com/2acad092587b09d8d5b7309e10d1871d/36813fcb4d752835-c9/s2048x3072/b445ad1da41953eed91d8f07da8b4c94eb13e97f.pnj"
-        width="400"
 
    </p>
    
-  $\color{#ab825e}\textsf{ac: birdssong, pfp by altades_art}$
-    $\color{#ab825e}\textsf{ }$
 
   </p>
 
