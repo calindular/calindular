@@ -27,7 +27,7 @@
   $\color{#80250b}\textsf{"And we can do a whole—whole hunt, whole chase,}$ 
   $\color{#80250b}\textsf{where you chase me across the multiverse, and then a big… big fight!}$
   $\color{#80250b}\textsf{Big fight, like the one you did with my grandpa!}$
-   $\color{#80250b}\textsf{Except now it’s me, because w-w-we’ve gone full circle! It’s turtles all the way down!”}$
+   $\color{#80250b}\textsf{Except now it’s me, because w-w-we’ve gone full circle! It turtles all the way down!”}$
       
   $\color{#381309}\textsf{- Morty Prime, End Behaviour}$
 
