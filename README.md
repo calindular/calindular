@@ -71,8 +71,6 @@
 
   <br>
   
-  $\color{#ab825e}\textsf{I disconnect a LOOTTTT... I have to keep rejoining as I used macros a few years back and can't reset my afk timer}$
-
    </p>
 <br>
    </p></p>
