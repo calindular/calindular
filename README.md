@@ -18,13 +18,16 @@
   </p>
 
   <tr>
-  
 
 
 
 
   </td>
-
+  
+  $\color{#80250b}\textsf{"And we can do a whole—whole hunt, whole chase,}$ 
+  $\color{#80250b}\textsf{where you chase me across the multiverse, and then a big… big fight!}$
+  $\color{#80250b}\textsf{Big fight, like the one you did with my grandpa!}$
+   $\color{#80250b}\textsf{Except now it’s me, because w-w-we’ve gone full circle! It’s turtles all the way down!”}$
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
@@ -66,7 +69,6 @@
   <br>
   
   $\color{#ab825e}\textsf{I disconnect a LOOTTTT... I have to keep rejoining as I used macros a few years back and can't reset my afk timer}$
-    $\color{#ab825e}\textsf{ }$
 
    </p>
 <br>
