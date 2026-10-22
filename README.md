@@ -15,22 +15,14 @@
   </p>
  
 
-  </p>
-
-  <tr>
-
 
 
 
   </td>
-  
-  $\color{#80250b}\textsf{"And we can do a whole—whole hunt, whole chase,}$  \
- $\color{#80250b}\textsf{where you chase me across the multiverse, and then a big… big fight!}$
-
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src="https://i.imgur.com/yHTo78e.png"
+        src="https://i.imgur.com/J5u6TcI.png"
         width="400"
       /><br>
     </td>
@@ -45,9 +37,6 @@
   </p>
 
   </p>
- 
-  $\color{#80250b}\textsf{Big fight, like the one you did with my grandpa!}$ \
-  $\color{#80250b}\textsf{Except now it’s me, because w-w-we’ve gone full circle! It turtles all the way down!”}$
 
   </div>
 
