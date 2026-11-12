@@ -22,8 +22,8 @@
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src="https://pbs.twimg.com/media/HWz32luaMAE7-Tn?format=jpg&name=medium"
-        width="400"
+        src="https://pbs.twimg.com/media/HWiv4RPXwAAUQsg?format=jpg&name=large"
+        width="500"
       /><br>
     </td>
   </tr>
