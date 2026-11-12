@@ -22,7 +22,7 @@
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src="https://pbs.twimg.com/media/HWiv4RPXwAAUQsg?format=jpg&name=large"
+        src="https://i.imgur.com/8dTR1u4.png"
         width="500"
       /><br>
     </td>
