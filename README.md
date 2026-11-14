@@ -22,7 +22,7 @@
    <!-- RIGHT: CD graphic -->
   <td valign="top" align="right">
       <img 
-        src=""
+        src="https://i.imgur.com/QdZLoNn.png"
         width="500"
       /><br>
     </td>
